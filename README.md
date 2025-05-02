@@ -15,7 +15,7 @@ Ce projet est un jeu de Pong avec des *power-ups*, développé en Python à l'ai
 
 ## Captures d'écran
 
-*(Ajoute une capture d'écran ici si possible avec un lien ou un fichier image)*
+![image](https://github.com/user-attachments/assets/6e072d42-f48b-437c-aa2d-624ce120453e)
 
 ## Installation
 
@@ -46,4 +46,4 @@ Assure-toi d'avoir un fichier de ressources `res.pyxres` dans le même dossier s
 
 ## Auteur
 
-Projet développé par un élève de Terminale NSI, réalisé en autonomie dans le cadre d'un projet de fin d'année.
+Projet développé par Emmanuel TIAMZON ancien élève de Terminale générale spécialité NSI, réalisé en autonomie dans le cadre d'un projet de milieu d'année.
