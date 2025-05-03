@@ -15,7 +15,7 @@ Ce projet est un jeu de Pong avec des *power-ups*, développé en Python à l'ai
 
 ## Captures d'écran
 
-![image](https://github.com/user-attachments/assets/6e072d42-f48b-437c-aa2d-624ce120453e)
+![image](https://github.com/user-attachments/assets/230fed82-e1c8-4cbb-88b7-6818ed2a23fd)
 
 ## Installation
 
