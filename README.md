@@ -37,6 +37,8 @@ python pong.py
 ```
 
 Assure-toi d'avoir un fichier de ressources `res.pyxres` dans le même dossier si tu veux utiliser les dessins personnalisés du power-up.
+Ou tu peux aller sur le site officiel de pyxel et faire un dessin personalisé comme celui ci dessous 
+![image](https://github.com/user-attachments/assets/4b640696-699c-4f7c-9a97-4eb4006db2f4)
 
 ## Notes
 
