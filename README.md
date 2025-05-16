@@ -27,6 +27,7 @@ pip install pyxel
 ```
 
 3. Tu peux aussi consulter [le site officiel de Pyxel](https://github.com/kitao/pyxel) pour plus d'infos et d'exemples.
+4. Pour avoir accès aux powerup alors tu peux utiliser mon design qui est powerUP.png ou en faire un par toi même sur le site de pyxel. 
 
 ## Lancer le jeu
 
