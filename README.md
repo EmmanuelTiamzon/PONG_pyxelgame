@@ -1,6 +1,7 @@
 # Pong Power-Up – Projet NSI Terminale
 
 Ce projet est un jeu de Pong avec des *power-ups*, développé en Python à l'aide de la bibliothèque **Pyxel**, dans le cadre d'un projet personnel de NSI en Terminale. Le jeu oppose deux joueurs qui contrôlent des raquettes, avec une balle qui rebondit, marque des points et interagit avec des objets bonus qui modifient sa vitesse.
+Consulter directement le jeu via ce lien : https://www.pyxelstudio.net/studio/kvhpl4
 
 ## Fonctionnalités
 
