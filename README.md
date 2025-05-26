@@ -50,3 +50,7 @@ Ou tu peux aller sur le site officiel de pyxel et faire un dessin personalisé c
 ## Auteur
 
 Projet développé par Emmanuel TIAMZON ancien élève de Terminale générale spécialité NSI, réalisé en autonomie dans le cadre d'un projet de milieu d'année.
+
+## Remarque
+
+Ce projet n’est pas destiné à un usage commercial. Il a été créé dans un but d’apprentissage uniquement.
